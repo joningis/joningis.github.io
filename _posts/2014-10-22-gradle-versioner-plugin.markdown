@@ -7,7 +7,7 @@ comments: yes
 ---
 
 When working with Gradle you often end up with a long list of dependencies. Now the big question is, how can you easily determine if your dependencies are up to date ?
-<a href="https://github.com/ben-manes/gradle-versions-plugin/" target="_blank">Gradle Verions Plugins</a> is here to the rescue, it adds a single task that can check out your list of dependencies and give you back report of which dependencies are using the latest version, which exceed the latest version and which have newer versions.
+<a href="https://github.com/ben-manes/gradle-versions-plugin/" target="_blank">Gradle Versions Plugins</a> is here to the rescue, it adds a single task that can check out your list of dependencies and give you back report of which dependencies are using the latest version, which exceed the latest version and which have newer versions.
 
 Example ouput: 
 
