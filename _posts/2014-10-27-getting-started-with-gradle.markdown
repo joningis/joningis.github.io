@@ -6,7 +6,7 @@ categories: gradle java jar
 comments: yes
 ---
 
-Gradle is a project automation tool that builds upon the concepts of Apache Ant and Apache Maven and uses a Groovy-based DSL instead of XML that Maven and Ant use.
+Gradle is a project automation tool that builds upon the concepts of Ant and Maven but instead of using XML to write the build script it uses a Groovy-based DSL
 
 Gradle can automate the building, testing, publishing, deployment and a lot more. 
 
