@@ -12,3 +12,6 @@ linkedin_name: "Jón Ingi"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+defaults:
+permalink: /:year/:month/:day/:title/
