@@ -15,3 +15,6 @@ permalink: pretty
 
 defaults:
 permalink: /:year/:month/:day/:title/
+
+gems:
+  - jekyll-sitemap
