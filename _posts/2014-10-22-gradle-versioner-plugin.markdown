@@ -4,6 +4,7 @@ title:  "Gradle Versioner plugin"
 date:   2014-10-22 23:00:00
 categories: gradle java jar
 comments: yes
+description: "Use the versioner plugin to check Gradle dependencies for update"
 ---
 
 When working with Gradle you often end up with a long list of dependencies. Now the big question is, how can you easily determine if your dependencies are up to date ?

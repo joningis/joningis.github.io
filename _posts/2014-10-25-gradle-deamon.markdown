@@ -4,6 +4,7 @@ title:  "Speed up Gradle"
 date:   2014-10-25 23:17:00
 categories: gradle deamon
 comments: yes
+description: "Greadle deamon to speed things up when running Gradle tasks"
 ---
 
 

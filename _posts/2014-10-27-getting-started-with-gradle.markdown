@@ -4,6 +4,7 @@ title:  "Getting started with Gradle"
 date:   2014-10-27 00:28:00
 categories: gradle java jar
 comments: yes
+description: "Getting started with Gradle. Basic Gradle project with dependiencies"
 ---
 
 Gradle is a project automation tool that builds upon the concepts of Ant and Maven but instead of using XML to write the build script it uses a Groovy-based DSL

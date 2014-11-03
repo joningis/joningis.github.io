@@ -4,6 +4,7 @@ title:  "JUnit TemporaryFolder Rule"
 date:   2014-10-30 00:28:00
 categories: java junit testing unittesting test
 comments: yes
+description: "How to use JUnit temporary files and folders. Use JUnit to handle and cleanup temporary files"
 ---
 
 If you have ever needed to create temporary files or folders in your unit test then you know that there is lot of work to cleanup all temporary files and folders. You have to clean up even if the test fails.
